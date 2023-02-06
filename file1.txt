@@ -1,1 +1,1 @@
-ini adalah file2.txt
+ini adalah file1.txt
