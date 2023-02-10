@@ -1,2 +1,3 @@
 ini adalah file1.txt
 feature/1 di file1.txt
+merubah file1.txt feature/b
