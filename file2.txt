@@ -1,3 +1,4 @@
 ini adalah fil2.txt
 feature/2 di file2.txt
 merubah file2.txt feature/b
+merubah file2.txt feature/c
