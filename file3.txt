@@ -2,3 +2,4 @@ ini adalah file3.txt
 feature/3 di file3.txt
 merubah file3.txt feature/b
 merubah file3.txt feature/c
+merubah file3.txt feature/rebase
