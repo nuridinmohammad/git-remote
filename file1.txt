@@ -5,3 +5,4 @@ merubah file1.txt feature/b
 merubah file1.txt feature/c
 merubah file1.txt master
 merubah file1.txt feature/rebase
+merubah file1.txt feature/squash
